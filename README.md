@@ -24,13 +24,21 @@ cybersecurity and penetration testing.
 - Web Application Security
 - Python for Cybersecurity
 
-## Skills
-
+## Security Tools-Learning
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
 
 ### Operating Systems
 - Linux
 - Kali Linux
 - Windows
+
+### Networking
+- TCP/IP fundamentals
+- Network reconnaissance
+- Port scanning
 
 ### Currently Learning
 - Nmap
@@ -38,7 +46,7 @@ cybersecurity and penetration testing.
 - Burp Suite
 - Metasploit
 
-### Programming
+### Programming-Learning
 - Python
 - Bash
 
@@ -62,11 +70,23 @@ Coming soon...
 Coming soon...
 
 ## Certifications
-
 - Google Cybersecurity Professional Certificate — In Progress
 - Linux Foundations and Basic System Administration Certificate — Completed
 
-## Goal
+## Learning Journey
 
+### Completed
+- Linux Foundations and Basic System Administration
+
+### In Progress
+- Google Cybersecurity Professional Certificate
+
+### Next
+- Network Reconnaissance
+- Web Application Security
+- Penetration Testing Labs
+- Python Security Projects
+ 
+## Goal
 My goal is to develop strong practical skills in penetration testing
 and eventually work in cybersecurity.
