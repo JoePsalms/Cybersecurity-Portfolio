@@ -25,7 +25,7 @@ in an authorized lab environment.
 nmap <target>
 nmap -sV <target>
 nmap -O <target>
-
+```
 
 ## Security Implications
 
@@ -82,3 +82,7 @@ This lab also helped me understand the importance of
 enumeration in penetration testing, because information
 collected during reconnaissance can guide later stages of
 security testing.
+
+
+
+
