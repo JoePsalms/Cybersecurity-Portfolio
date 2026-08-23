@@ -32,7 +32,7 @@ cybersecurity and penetration testing.
 - Kali Linux
 - Windows
 
-### Security Tools
+### Currently Learning
 - Nmap
 - Wireshark
 - Burp Suite
