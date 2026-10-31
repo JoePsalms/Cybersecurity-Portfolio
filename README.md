@@ -78,8 +78,16 @@ Coming soon...
 Coming soon...
 
 ## Certifications
-- Google Cybersecurity Professional Certificate — In Progress
-- Linux Foundations and Basic System Administration Certificate — Completed
+
+### Google Cybersecurity Professional Certificate — In Progress
+Course certificates completed so far:
+- Foundations of Cybersecurity — Completed June 2026
+- Play It Safe: Manage Security Risks — Completed August 2026
+- Connect and Protect: Networks and Network Security — Completed September 2026
+- Tools of the Trade: Linux and SQL — Completed October 2026
+
+### Other Certifications
+- Linux Foundations and Basic System Administration (Packt) — Completed
 
 ## Learning Journey
 
