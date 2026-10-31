@@ -63,7 +63,8 @@ cybersecurity and penetration testing.
 Coming soon...
 
 ### Hack The Box
-Coming soon...
+- [Nmap Service Enumeration](Labs/Hack-The_Box/%20Nmap-Service-Enumeration/README.md)
+- [Nmap — Firewall and IDS/IPS Evasion (Hard)](Labs/Hack-The_Box/Nmap-Firewall-IDS-IPS-Evasion/README.md)
 
 ## Projects
 
