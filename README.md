@@ -60,6 +60,9 @@ cybersecurity and penetration testing.
 
 ## Labs & Practice
 
+### Google Cybersecurity Professional Certificate
+- [File Integrity Hashing](Labs/Google-Cybersecurity/File-Integrity-Hashing/README.md)
+
 ### TryHackMe
 Coming soon...
 
