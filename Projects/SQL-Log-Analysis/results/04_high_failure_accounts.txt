@@ -1,0 +1,7 @@
+Query: queries/04_high_failure_accounts.sql
+Rows returned: 2
+
+username  total_failed_attempts  days_with_failures  distinct_source_ips
+--------  ---------------------  ------------------  -------------------
+taylor04  18                     1                   1                  
+taylor17  7                      7                   7                  

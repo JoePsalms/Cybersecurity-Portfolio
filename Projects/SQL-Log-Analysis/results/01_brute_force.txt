@@ -1,0 +1,6 @@
+Query: queries/01_brute_force.sql
+Rows returned: 1
+
+username  ip_address      login_date  failed_attempts  first_attempt  last_attempt
+--------  --------------  ----------  ---------------  -------------  ------------
+taylor04  185.220.101.47  2026-09-06  18               14:10:20       14:27:08    

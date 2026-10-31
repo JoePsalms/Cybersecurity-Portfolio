@@ -1,0 +1,21 @@
+employee_id,device_id,username,department,office,home_country
+1,1001,morgan01,Marketing,South-401,MEX
+2,1002,drew02,Finance,East-102,GHA
+3,1003,morgan03,Human Resources,South-401,DEU
+4,1004,taylor04,Information Technology,West-202,US
+5,1005,alex05,Marketing,East-102,CAN
+6,1006,hayden06,Information Technology,East-101,DEU
+7,1007,sam07,Human Resources,South-401,GHA
+8,1008,finley08,Engineering,East-102,GBR
+9,1009,dakota09,Sales,East-101,CAN
+10,1010,rowan10,Sales,West-201,CAN
+11,1011,sam11,Sales,East-101,US
+12,1012,parker12,Marketing,West-201,MEX
+13,1013,kendall13,Sales,East-101,GHA
+14,1014,skyler14,Information Technology,East-101,GBR
+15,1015,taylor15,Information Technology,West-201,GHA
+16,1016,kendall16,Sales,North-301,CAN
+17,1017,taylor17,Marketing,South-401,CAN
+18,1018,avery18,Marketing,East-102,US
+19,1019,parker19,Sales,West-202,GHA
+20,1020,reese20,Finance,West-201,MEX

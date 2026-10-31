@@ -75,7 +75,7 @@ Coming soon...
 
 ## Projects
 
-Coming soon...
+- [SQL Log Analysis — Suspicious Login Detection](Projects/SQL-Log-Analysis/README.md) — a self-directed project generating synthetic login data and writing SQL queries to detect brute-force attempts, impossible travel, off-hours activity, and slow credential stuffing.
 
 ## Certifications
 
