@@ -62,6 +62,9 @@ cybersecurity and penetration testing.
 
 ### Google Cybersecurity Professional Certificate
 - [File Integrity Hashing](Labs/Google-Cybersecurity/File-Integrity-Hashing/README.md)
+- [File Permissions in Linux](Labs/Google-Cybersecurity/Linux-File-Permissions/README.md)
+- [SQL Query Portfolio — Table Formats](Labs/Google-Cybersecurity/SQL-Queries/README.md)
+- [Apply Filters to SQL Queries](Labs/Google-Cybersecurity/SQL-Query-Filters/README.md)
 
 ### TryHackMe
 Coming soon...
