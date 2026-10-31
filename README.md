@@ -81,13 +81,13 @@ Coming soon...
 
 ### Google Cybersecurity Professional Certificate — In Progress
 Course certificates completed so far:
-- Foundations of Cybersecurity — Completed June 2026
-- Play It Safe: Manage Security Risks — Completed August 2026
-- Connect and Protect: Networks and Network Security — Completed September 2026
-- Tools of the Trade: Linux and SQL — Completed October 2026
+- [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/M4MKFTGN0L1M) — Completed June 2026
+- [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/H38R99U2XFAZ) — Completed August 2026
+- [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/TLKYM7RWH8VM) — Completed September 2026
+- [Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/RIQYCTDW3I48) — Completed October 2026
 
 ### Other Certifications
-- Linux Foundations and Basic System Administration (Packt) — Completed
+- [Linux Foundations and Basic System Administration (Packt)](https://www.coursera.org/account/accomplishments/verify/U8LFFXL2UQ35) — Completed
 
 ## Learning Journey
 
