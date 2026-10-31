@@ -14,6 +14,7 @@ cybersecurity and penetration testing.
 - 🌐 Networking
 - 🐍 Python
 - 💻 Web Security
+- 📑 SQL
 
 ## Current Learning
 
