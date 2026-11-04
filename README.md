@@ -65,6 +65,7 @@ cybersecurity and penetration testing.
 - [File Permissions in Linux](Labs/Google-Cybersecurity/Linux-File-Permissions/README.md)
 - [SQL Query Portfolio — Table Formats](Labs/Google-Cybersecurity/SQL-Queries/README.md)
 - [Apply Filters to SQL Queries](Labs/Google-Cybersecurity/SQL-Query-Filters/README.md)
+- [Vulnerability Assessment Report](Labs/Google-Cybersecurity/Vulnerability-Assessment-Report/README.md)
 
 ### TryHackMe
 Coming soon...
