@@ -66,6 +66,7 @@ cybersecurity and penetration testing.
 - [SQL Query Portfolio — Table Formats](Labs/Google-Cybersecurity/SQL-Queries/README.md)
 - [Apply Filters to SQL Queries](Labs/Google-Cybersecurity/SQL-Query-Filters/README.md)
 - [Vulnerability Assessment Report](Labs/Google-Cybersecurity/Vulnerability-Assessment-Report/README.md)
+- [Incident Handler's Journal](Labs/Google-Cybersecurity/Incident-Handlers-Journal/README.md) — *ongoing, updated as new entries are completed*
 
 ### TryHackMe
 Coming soon...
