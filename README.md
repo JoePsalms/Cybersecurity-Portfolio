@@ -67,6 +67,7 @@ cybersecurity and penetration testing.
 - [Apply Filters to SQL Queries](Labs/Google-Cybersecurity/SQL-Query-Filters/README.md)
 - [Vulnerability Assessment Report](Labs/Google-Cybersecurity/Vulnerability-Assessment-Report/README.md)
 - [Incident Handler's Journal](Labs/Google-Cybersecurity/Incident-Handlers-Journal/README.md) — *ongoing, updated as new entries are completed*
+- [Analyze Your First Packet with Wireshark](Labs/Google-Cybersecurity/Wireshark-Packet-Analysis/README.md) — 100% score
 
 ### TryHackMe
 Coming soon...
