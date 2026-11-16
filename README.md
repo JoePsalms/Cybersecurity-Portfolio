@@ -75,6 +75,9 @@ Coming soon...
 - [Nmap Service Enumeration](Labs/Hack-The_Box/%20Nmap-Service-Enumeration/README.md)
 - [Nmap — Firewall and IDS/IPS Evasion (Hard)](Labs/Hack-The_Box/Nmap-Firewall-IDS-IPS-Evasion/README.md)
 
+### PortSwigger Web Security Academy
+- [SQL Injection — Retrieving Hidden Data (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-Retrieving-Hidden-Data/README.md)
+
 ## Projects
 
 - [SQL Log Analysis — Suspicious Login Detection](Projects/SQL-Log-Analysis/README.md) — a self-directed project generating synthetic login data and writing SQL queries to detect brute-force attempts, impossible travel, off-hours activity, and slow credential stuffing.
