@@ -68,6 +68,7 @@ cybersecurity and penetration testing.
 - [Vulnerability Assessment Report](Labs/Google-Cybersecurity/Vulnerability-Assessment-Report/README.md)
 - [Incident Handler's Journal](Labs/Google-Cybersecurity/Incident-Handlers-Journal/README.md) — *ongoing, updated as new entries are completed*
 - [Analyze Your First Packet with Wireshark](Labs/Google-Cybersecurity/Wireshark-Packet-Analysis/README.md) — 100% score
+- [Capturing and Viewing Network Traffic with tcpdump](Labs/Google-Cybersecurity/Tcpdump-Packet-Analysis/README.md)
 
 ### TryHackMe
 Coming soon...
