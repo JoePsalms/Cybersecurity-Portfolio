@@ -80,6 +80,7 @@ Coming soon...
 ### PortSwigger Web Security Academy
 - [SQL Injection — Retrieving Hidden Data (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-Retrieving-Hidden-Data/README.md)
 - [SQL Injection — Login Bypass (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-Login-Bypass/README.md)
+- [SQL Injection UNION Attack — Determining the Number of Columns (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-UNION-Column-Count/README.md)
 
 ## Projects
 
