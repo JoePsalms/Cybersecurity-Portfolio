@@ -79,6 +79,7 @@ Coming soon...
 
 ### PortSwigger Web Security Academy
 - [SQL Injection — Retrieving Hidden Data (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-Retrieving-Hidden-Data/README.md)
+- [SQL Injection — Login Bypass (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-Login-Bypass/README.md)
 
 ## Projects
 
