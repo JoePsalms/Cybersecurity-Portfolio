@@ -74,8 +74,8 @@ cybersecurity and penetration testing.
 Coming soon...
 
 ### Hack The Box
-- [Nmap Service Enumeration](Labs/Hack-The_Box/%20Nmap-Service-Enumeration/README.md)
-- [Nmap — Firewall and IDS/IPS Evasion (Hard)](Labs/Hack-The_Box/Nmap-Firewall-IDS-IPS-Evasion/README.md)
+- [Nmap Service Enumeration](Labs/Hack-The-Box/Nmap-Service-Enumeration/README.md)
+- [Nmap — Firewall and IDS/IPS Evasion (Hard)](Labs/Hack-The-Box/Nmap-Firewall-IDS-IPS-Evasion/README.md)
 
 ### PortSwigger Web Security Academy
 - [SQL Injection — Retrieving Hidden Data (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-Retrieving-Hidden-Data/README.md)
