@@ -78,11 +78,13 @@ Coming soon...
 - [Nmap — Firewall and IDS/IPS Evasion (Hard)](Labs/Hack-The-Box/Nmap-Firewall-IDS-IPS-Evasion/README.md)
 
 ### PortSwigger Web Security Academy
+*6 labs completed*
 - [SQL Injection — Retrieving Hidden Data (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-Retrieving-Hidden-Data/README.md)
 - [SQL Injection — Login Bypass (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-Login-Bypass/README.md)
 - [SQL Injection UNION Attack — Determining the Number of Columns (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-UNION-Column-Count/README.md)
 - [SQL Injection UNION Attack — Finding a Column Containing Text (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-UNION-Finding-String-Column/README.md)
 - [SQL Injection UNION Attack — Retrieving Data from Other Tables (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-UNION-Retrieving-Data-From-Other-Tables/README.md)
+- [SQL Injection UNION Attack — Retrieving Multiple Values in a Single Column (Apprentice)](Labs/PortSwigger-Web-Security-Academy/SQL-Injection-UNION-Multiple-Values-Single-Column/README.md)
 
 ## Projects
 
