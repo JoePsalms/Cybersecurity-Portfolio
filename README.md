@@ -99,6 +99,7 @@ Course certificates completed so far:
 - [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/TLKYM7RWH8VM) — Completed September 2026
 - [Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/RIQYCTDW3I48) — Completed October 2026
 - [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/DGNL0WVTYAWY) — Completed November 2026
+- [Sound the Alarm: Detection and Response](https://coursera.org/share/b1066f6f9b1195bb865da9b90c405844) — Completed November 2026, Grade: 91.68%
 
 ### Other Certifications
 - [Linux Foundations and Basic System Administration (Packt)](https://www.coursera.org/account/accomplishments/verify/U8LFFXL2UQ35) — Completed
